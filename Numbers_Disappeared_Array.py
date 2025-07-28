@@ -5,3 +5,5 @@ def findDisappearedNumbers(nums):
             not_p.append(i)
     return not_p
 print(findDisappearedNumbers([4,3,2,7,8,2,3,1]))
+
+
