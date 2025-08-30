@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aninda8680/LeetCode-Ques/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/aninda8680/LeetCode-Ques/tree/master/0036-valid-sudoku) |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aninda8680/LeetCode-Ques/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/aninda8680/LeetCode-Ques/tree/master/0036-valid-sudoku) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/aninda8680/LeetCode-Ques/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
