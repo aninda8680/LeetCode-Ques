@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aninda8680/LeetCode-Ques/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/aninda8680/LeetCode-Ques/tree/master/0036-valid-sudoku) |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
+| [0643-maximum-average-subarray-i](https://github.com/aninda8680/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aninda8680/LeetCode-Ques/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aninda8680/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
