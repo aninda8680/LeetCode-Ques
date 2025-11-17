@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aninda8680/LeetCode-Ques/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/aninda8680/LeetCode-Ques/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/aninda8680/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aninda8680/LeetCode-Ques/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/aninda8680/LeetCode-Ques/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/aninda8680/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
