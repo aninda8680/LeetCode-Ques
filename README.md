@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/aninda8680/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aninda8680/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0541-reverse-string-ii) |
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aninda8680/LeetCode-Ques/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/aninda8680/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aninda8680/LeetCode-Ques/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/aninda8680/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aninda8680/LeetCode-Ques/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/aninda8680/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
