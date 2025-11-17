@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aninda8680/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0541-reverse-string-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aninda8680/LeetCode-Ques/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/aninda8680/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
+| [0541-reverse-string-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
 | ------- |
