@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aninda8680/LeetCode-Ques/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/aninda8680/LeetCode-Ques/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/aninda8680/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/aninda8680/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aninda8680/LeetCode-Ques/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/aninda8680/LeetCode-Ques/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/aninda8680/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aninda8680/LeetCode-Ques/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -46,5 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aninda8680/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aninda8680/LeetCode-Ques/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aninda8680/LeetCode-Ques/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aninda8680/LeetCode-Ques/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
