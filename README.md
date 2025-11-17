@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aninda8680/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0541-reverse-string-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/aninda8680/LeetCode-Ques/tree/master/0908-middle-of-the-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aninda8680/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/aninda8680/LeetCode-Ques/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/aninda8680/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/aninda8680/LeetCode-Ques/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
