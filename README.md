@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aninda8680/LeetCode-Ques/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/aninda8680/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/aninda8680/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aninda8680/LeetCode-Ques/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/aninda8680/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aninda8680/LeetCode-Ques/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aninda8680/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aninda8680/LeetCode-Ques/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aninda8680/LeetCode-Ques/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
