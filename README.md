@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aninda8680/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/aninda8680/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aninda8680/LeetCode-Ques/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aninda8680/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
