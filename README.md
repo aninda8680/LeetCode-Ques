@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0132-palindrome-partitioning-ii) |
 | [0343-integer-break](https://github.com/aninda8680/LeetCode-Ques/tree/master/0343-integer-break) |
 | [0474-ones-and-zeroes](https://github.com/aninda8680/LeetCode-Ques/tree/master/0474-ones-and-zeroes) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/aninda8680/LeetCode-Ques/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0650-2-keys-keyboard](https://github.com/aninda8680/LeetCode-Ques/tree/master/0650-2-keys-keyboard) |
 | [1137-n-th-tribonacci-number](https://github.com/aninda8680/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
