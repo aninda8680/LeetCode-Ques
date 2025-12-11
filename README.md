@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aninda8680/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aninda8680/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/aninda8680/LeetCode-Ques/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/aninda8680/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aninda8680/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/aninda8680/LeetCode-Ques/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aninda8680/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/aninda8680/LeetCode-Ques/tree/master/0343-integer-break) |
