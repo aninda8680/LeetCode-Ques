@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aninda8680/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0474-ones-and-zeroes](https://github.com/aninda8680/LeetCode-Ques/tree/master/0474-ones-and-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/aninda8680/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aninda8680/LeetCode-Ques/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aninda8680/LeetCode-Ques/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/aninda8680/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
+| [0474-ones-and-zeroes](https://github.com/aninda8680/LeetCode-Ques/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aninda8680/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0132-palindrome-partitioning-ii) |
 | [0343-integer-break](https://github.com/aninda8680/LeetCode-Ques/tree/master/0343-integer-break) |
+| [0474-ones-and-zeroes](https://github.com/aninda8680/LeetCode-Ques/tree/master/0474-ones-and-zeroes) |
 ## Simulation
 |  |
 | ------- |
