@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aninda8680/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/aninda8680/LeetCode-Ques/tree/master/0014-longest-common-prefix) |
+| [0132-palindrome-partitioning-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/aninda8680/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0541-reverse-string-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aninda8680/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/aninda8680/LeetCode-Ques/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aninda8680/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0132-palindrome-partitioning-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0132-palindrome-partitioning-ii) |
 | [0343-integer-break](https://github.com/aninda8680/LeetCode-Ques/tree/master/0343-integer-break) |
 ## Simulation
 |  |
