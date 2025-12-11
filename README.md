@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aninda8680/LeetCode-Ques/tree/master/0258-add-digits) |
 | [0343-integer-break](https://github.com/aninda8680/LeetCode-Ques/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/aninda8680/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/aninda8680/LeetCode-Ques/tree/master/1642-water-bottles) |
 | [1952-three-divisors](https://github.com/aninda8680/LeetCode-Ques/tree/master/1952-three-divisors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/aninda8680/LeetCode-Ques/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/aninda8680/LeetCode-Ques/tree/master/0132-palindrome-partitioning-ii) |
 | [0343-integer-break](https://github.com/aninda8680/LeetCode-Ques/tree/master/0343-integer-break) |
 | [0474-ones-and-zeroes](https://github.com/aninda8680/LeetCode-Ques/tree/master/0474-ones-and-zeroes) |
+| [1137-n-th-tribonacci-number](https://github.com/aninda8680/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aninda8680/LeetCode-Ques/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/aninda8680/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 ## Enumeration
 |  |
 | ------- |
