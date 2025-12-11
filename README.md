@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aninda8680/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/aninda8680/LeetCode-Ques/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/aninda8680/LeetCode-Ques/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/aninda8680/LeetCode-Ques/tree/master/1642-water-bottles) |
 | [1952-three-divisors](https://github.com/aninda8680/LeetCode-Ques/tree/master/1952-three-divisors) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aninda8680/LeetCode-Ques/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/aninda8680/LeetCode-Ques/tree/master/1642-water-bottles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aninda8680/LeetCode-Ques/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aninda8680/LeetCode-Ques/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/aninda8680/LeetCode-Ques/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
