@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/aninda8680/LeetCode-Ques/tree/master/1642-water-bottles) |
+| [1952-three-divisors](https://github.com/aninda8680/LeetCode-Ques/tree/master/1952-three-divisors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/aninda8680/LeetCode-Ques/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aninda8680/LeetCode-Ques/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aninda8680/LeetCode-Ques/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aninda8680/LeetCode-Ques/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
