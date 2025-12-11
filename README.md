@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aninda8680/LeetCode-Ques/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aninda8680/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/aninda8680/LeetCode-Ques/tree/master/0258-add-digits) |
+| [0343-integer-break](https://github.com/aninda8680/LeetCode-Ques/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/aninda8680/LeetCode-Ques/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/aninda8680/LeetCode-Ques/tree/master/1642-water-bottles) |
 | [1952-three-divisors](https://github.com/aninda8680/LeetCode-Ques/tree/master/1952-three-divisors) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/aninda8680/LeetCode-Ques/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aninda8680/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0343-integer-break](https://github.com/aninda8680/LeetCode-Ques/tree/master/0343-integer-break) |
 ## Simulation
 |  |
 | ------- |
